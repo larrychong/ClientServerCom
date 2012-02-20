@@ -1,0 +1,10 @@
+C:\Users\Loki\DimSumManager\ServerTest\ServerTest\bin\Debug\ServerTest.exe
+C:\Users\Loki\DimSumManager\ServerTest\ServerTest\bin\Debug\ServerTest.pdb
+C:\Users\Loki\DimSumManager\ServerTest\ServerTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Loki\DimSumManager\ServerTest\ServerTest\obj\x86\Debug\ServerTest.exe
+C:\Users\Loki\DimSumManager\ServerTest\ServerTest\obj\x86\Debug\ServerTest.pdb
+C:\Users\Loki\ClientServerCom\ServerTest\ServerTest\obj\x86\Debug\ServerTest.exe
+C:\Users\Loki\ClientServerCom\ServerTest\ServerTest\obj\x86\Debug\ServerTest.pdb
+C:\Users\Loki\ClientServerCom\ServerTest\ServerTest\bin\Debug\ServerTest.exe
+C:\Users\Loki\ClientServerCom\ServerTest\ServerTest\bin\Debug\ServerTest.pdb
+C:\Users\Loki\ClientServerCom\ServerTest\ServerTest\obj\x86\Debug\ResolveAssemblyReference.cache

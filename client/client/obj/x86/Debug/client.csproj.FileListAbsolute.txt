@@ -1,0 +1,5 @@
+C:\Users\Loki\ClientServerCom\client\client\bin\Debug\client.exe
+C:\Users\Loki\ClientServerCom\client\client\bin\Debug\client.pdb
+C:\Users\Loki\ClientServerCom\client\client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Loki\ClientServerCom\client\client\obj\x86\Debug\client.exe
+C:\Users\Loki\ClientServerCom\client\client\obj\x86\Debug\client.pdb
